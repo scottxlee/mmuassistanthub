@@ -29,7 +29,7 @@ Streamlit: Streamlit will be used to run the web application. Installation instr
 Downloading and Setting Up Project Files
 Clone or download the project repository: If you have git installed, you can clone the repository using:
 
-git clone https://github.com/your-repository-link
+git clone https://github.com/scottxlee/mmuassistanthub
 Alternatively, download the zip file from the repository and extract it in your desired location.
 Installing Dependencies
 Navigate to the project directory in your terminal or command prompt.
